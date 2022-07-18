@@ -35,6 +35,7 @@ public class TestAlert {
 		
 		System.out.println(alert.getText());
 		alert.accept();
+		System.out.println("Hello another change");
 		
 		
 		
